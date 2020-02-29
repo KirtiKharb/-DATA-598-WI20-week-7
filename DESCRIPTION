@@ -1,0 +1,13 @@
+Package: mysimplecompendium
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: person("Kirti", "Kharb", 
+                  email = "kirtikharb.4@gmail.com", 
+                  role = c("aut", "cre", "cph"),
+                  comment = c(ORCID = "0000-0002-5066-8549"))
+Maintainer: Kirti Kharb <kirtikharb.4@gmail.com>
+Description: Simple functions to add and multiply two numbers with their unit tests.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
