@@ -11,6 +11,9 @@ add_two_numbers(a, b)
 
 \item{b}{Second number}
 }
+\value{
+
+}
 \description{
 Function to add two numbers
 }

@@ -11,6 +11,9 @@ multiply_two_numbers(a, b)
 
 \item{b}{Second Number}
 }
+\value{
+
+}
 \description{
 Function to multiply two numbers
 }
