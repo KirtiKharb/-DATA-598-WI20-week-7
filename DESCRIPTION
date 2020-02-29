@@ -11,3 +11,6 @@ Description: Simple functions to add and multiply two numbers with their unit te
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Suggests: 
+    testthat (>= 2.1.0)
+RoxygenNote: 6.1.1
