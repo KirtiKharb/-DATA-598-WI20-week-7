@@ -22,7 +22,7 @@ This is a basic example which shows you how to solve a common problem:
 library(mysimplecompendium)
 ## basic example code
 add_two_numbers(1, 3)
-multiply_two_numbers(2, 3)
+multiply_two_numbers(2, 5)
 ```
 
 ## Code of Conduct
