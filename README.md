@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![R build status](https://github.com/KirtiKharb/DATA-598-WI20-week-7/workflows/R-CMD-check/badge.svg)](https://github.com/KirtiKharb/DATA-598-WI20-week-7/actions)
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KirtiKharb/DATA-598-WI20-week-7/master?urlpath=rstudio)
 <!-- badges: end -->
 
 The goal of mysimplecompendium is to perform addition and multiplication of two numbers.
